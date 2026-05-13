@@ -1,0 +1,2 @@
+# Saillent Audit Trail Logger
+# No external dependencies required — uses Python stdlib only
